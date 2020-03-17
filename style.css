@@ -7,6 +7,7 @@
     border-radius: 2vw;
     margin: auto;
     margin-top:40vh;
+    font-family: sans-serif;
 }
 .flipped{
     transform: rotate(-180deg)
